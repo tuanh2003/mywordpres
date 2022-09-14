@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://tuanh2003.github.io/mywordpres/wp-content/uploads/2022/09/moi.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://tuanh2003.github.io/mywordpres/wp-content/uploads/2022/09/moi.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="https://tuanh2003.github.io/mywordpres/wp-content/uploads/2022/09/moi.jpg">https://tuanh2003.github.io/mywordpres/wp-content/uploads/2022/09/moi.jpg</a></p>
+	</body>
+</html>
